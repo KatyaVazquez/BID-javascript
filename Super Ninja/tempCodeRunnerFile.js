@@ -1,0 +1,1 @@
+superSensei.speakWisdom();
